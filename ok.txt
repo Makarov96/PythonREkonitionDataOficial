@@ -1,0 +1,17 @@
+{
+    "Location": "https://cloudfront.amazonaws.com/2019-03-26/distribution/EKHBVDWBDR15Q/invalidation/I3SEPE65LPWVN4",
+    "Invalidation": {
+        "Id": "I3SEPE65LPWVN4",
+        "Status": "InProgress",
+        "CreateTime": "2019-10-10T03:49:58.882Z",
+        "InvalidationBatch": {
+            "Paths": {
+                "Quantity": 1,
+                "Items": [
+                    "/*"
+                ]
+            },
+            "CallerReference": "cli-1570679397-666183"
+        }
+    }
+}
